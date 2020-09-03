@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Undergraduate CS Student at the University of California, Davis. Passioniate about blockchain and decentralized autonomous organizations.
 twitter_username: that_one_nerdy_
 github_username: mw2000
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: dirt
 search: false
 
 # Build settings
@@ -61,7 +61,7 @@ author:
   bio    : "Undergraduate CS Student at the University of California, Davis. Passionate about blockchain and decentralized autonomous organizations. "
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/mihirwadekar/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -101,6 +101,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _blockchain
+  - scope:
+      path: ""
+      type: blockchain
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 category_archive:
   type: liquid
