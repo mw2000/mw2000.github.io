@@ -59,10 +59,11 @@ plugins:
 author:
   name   : "Mihir Wadekar"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Undergraduate CS Student at the University of California, Davis. Passionate about blockchain and decentralized autonomous organizations. "
+  location : "Davis, CA"
+  bio    : "Undergraduate CS Student at the University of California, Davis. "
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/mihirwadekar/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
