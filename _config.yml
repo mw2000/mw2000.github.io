@@ -13,16 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Mihir Wadekar
+email: mpwadekar@ucdavis.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+  Undergraduate CS Student at the University of California, Davis. Passioniate about blockchain and decentralized autonomous organizations.
+twitter_username: that_one_nerdy_
+github_username: mw2000
+minimal_mistakes_skin: dark
+search: false
 
 # Build settings
 markdown: kramdown
@@ -58,34 +56,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Mihir Wadekar"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Undergraduate CS Student at the University of California, Davis. Passionate about blockchain and decentralized autonomous organizations. "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mihirwadekar/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/that_one_nerdy_/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/mw2000/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/that_one_nerdy_/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/mw2000/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mihirwadekar/"
 
 defaults:
   # _posts
