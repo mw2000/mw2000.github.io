@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Mihir Wadekar"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile-pic.jpeg"
   location : "Davis, CA"
   bio    : "Undergraduate CS Student at the University of California, Davis. "
   links:
