@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /
+    url: /about/
   - title: "Blockchain"
     url: /blockchain/
   - title: "CV"
