@@ -6,7 +6,7 @@ title: "About"
 Hi! My name is Mihir and I'm glad that you stumbled across my website 😃.
 
 I'm a junior at UC Davis, majoring in Computer Science. I'm a die
-hard blockchain fanboy, and have been actively involved with the student-run club (Blockchain at Davis)[http://www.blockchainatdavis.io/]. You can read more about my blockchain stuff [here](https://mw2000.github.io/blockchain/). 
+hard blockchain fanboy, and have been actively involved with the student-run club [Blockchain at Davis](http://www.blockchainatdavis.io/). You can read more about my blockchain stuff [here](https://mw2000.github.io/blockchain/). 
 
 Apart from blockchain, I'm super passionate about space(X) travel and exploring what lies beyond the confines of Earth's blue skies. Through being a part of the [UC Davis Satellite and Systems Club](https://www.facebook.com/SpaceAndSatelliteSystems/), I'm able to pursue this passion of mine by contributing in building UC Davis' first CubeSAT. I was also a part of [RoveCrest](http://rovecrest.com/), a club focused on building a Mars Rover for [Mars Society's University Rover Competition](http://urc.marssociety.org/home/urc-news).
 
