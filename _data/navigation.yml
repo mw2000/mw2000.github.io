@@ -1,7 +1,5 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Blockchain"
-    url: /blockchain/
-  - title: "CV"
-    url: /files/resume.pdf
+  - title: "My work"
+    url: /work/
+  - title: "Reading List"
+    url: /good-reads/
