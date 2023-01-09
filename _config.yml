@@ -59,8 +59,7 @@ plugins:
 author:
   name   : "Mihir Wadekar"
   avatar : "/assets/images/profile-pic.jpeg"
-  location : "Davis, CA"
-  bio    : "Software Engineer at Everyrealm · Graduate CS Student at the University of California, Davis · Co-Founder at Dropspace"
+  bio    : "Software Engineer at Everyrealm · MS CS Student at UC Davis · Co-Founder at Dropspace"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
