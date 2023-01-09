@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mihir Wadekar
-email: mpwadekar@ucdavis.edu
+email: mwadekar2000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Undergraduate CS Student at the University of California, Davis. Passioniate about blockchain and decentralized autonomous organizations.
+  Software Engineer at Everyrealm · Graduate CS Student at the University of California, Davis · Co-Founder at Dropspace
 twitter_username: that_one_nerdy_
 github_username: mw2000
 minimal_mistakes_skin: dirt
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
@@ -59,8 +59,7 @@ plugins:
 author:
   name   : "Mihir Wadekar"
   avatar : "/assets/images/profile-pic.jpeg"
-  location : "Davis, CA"
-  bio    : "Undergraduate CS Student at the University of California, Davis. "
+  bio    : "Software Engineer at Everyrealm · MS CS Student at UC Davis · Co-Founder at Dropspace"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
@@ -103,15 +102,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _blockchain
-  - scope:
-      path: ""
-      type: blockchain
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
 
 category_archive:
   type: liquid
