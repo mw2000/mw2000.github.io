@@ -29,6 +29,7 @@ This is a collection of the books, podcast episodes, videos, papers, articles an
 - [Vitalik Buterin - Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/en/whitepaper/)
 - [Nick Mudge - EIP-2535: Diamonds, Multi-Facet Proxy](https://eips.ethereum.org/EIPS/eip-2535)
 
+
 </div>
 </details>
 
@@ -51,6 +52,7 @@ This is a collection of the books, podcast episodes, videos, papers, articles an
 - [Economics Explained - The Economy of EVE Online](https://www.youtube.com/watch?v=nrW6p5ns8K8&list=LL&index=345)
 - [Kurzgesagt - The Rise of the Machines – Why Automation is Different this Time](https://www.youtube.com/watch?v=WSKi8HfcxEk)
 - [Kurzgesagt - Universal Basic Income Explained – Free Money for Everybody? UBI](https://www.youtube.com/watch?v=kl39KHS07Xc)
+- [Structural Adjustment: How the IMF and World Bank repress poor countries and funnel their resources to rich ones](https://bitcoinmagazine.com/culture/imf-world-bank-repress-poor-countries)
 
 </div>
 </details>
