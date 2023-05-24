@@ -1,5 +1,5 @@
 ---
-title: "The effects of AI on Labour and the Push towards Capital Ownership"
+title: "A case for Sovereign Wealth Funds - The effects of AI on Labour and the Trend towards Capital Ownership."
 categories:
   - Blog
 tags:
