@@ -1,5 +1,5 @@
 ---
-title: "Empires Fall, Protocols Persist - A Comparison of Societal and Technological Evolution"
+title: "Empires fall, Protocols Persist - A Comparison of Societal and Technological Evolution"
 categories:
   - Blog
 tags:
