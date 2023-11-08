@@ -70,6 +70,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mw2000/"
+    - label: "Peerlist"
+      icon: "fas fa-user-alt"
+      url: "https://peerlist.io/thatonenerdy/"
 
 footer:
   links:
@@ -83,7 +86,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mihirwadekar/"
     - label: "Peerlist"
-      icon: "fab fa-solid fa-p"
+      icon: "fas fa-user-alt"
       url: "https://peerlist.io/thatonenerdy/"
 
 defaults:
