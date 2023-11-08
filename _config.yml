@@ -82,6 +82,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mihirwadekar/"
+    - label: "Peerlist"
+      icon: "fab fa-solid fa-p"
+      url: "https://peerlist.io/thatonenerdy/"
 
 defaults:
   # _posts
