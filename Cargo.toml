@@ -1,0 +1,18 @@
+[package]
+name = "website"
+version = "0.1.0"
+authors = ["mw2000 <mwadekar2000@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+dioxus = { version = "0.5", features = ["web", "router"] }
+
+# Debug
+tracing = "0.1.40"
+dioxus-logger = "0.5.0"
+pulldown-cmark = "0.11.0"
+manganis = "0.2.2"
+markdown = "=1.0.0-alpha.7"
