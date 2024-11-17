@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Mihir Wadekar
 email: mwadekar2000@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineer at Everyrealm · Graduate CS Student at the University of California, Davis · Co-Founder at Dropspace
+description: 
 twitter_username: that_one_nerdy_
 github_username: mw2000
 minimal_mistakes_skin: neon
@@ -59,7 +58,7 @@ plugins:
 author:
   name   : "Mihir Wadekar"
   avatar : "/assets/images/profile-pic.jpeg"
-  bio    : "Software Engineer at Everyrealm · MS CS Student at UC Davis · Co-Founder at Dropspace"
+  bio    : ""
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
