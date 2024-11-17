@@ -2,6 +2,6 @@ main:
   - title: "My work"
     url: /work/
   - title: "Reading List"
-    url: /good-reads/
+    url: https://www.goodreads.com/user/show/175686021-mihir-wadekar
   - title: "Thesis"
     url: /thesis/
